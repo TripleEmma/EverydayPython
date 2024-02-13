@@ -5,7 +5,7 @@ Created on Tue Feb 13 22:03:35 2024
 
 This script output unique reads (remove identical reads)
 
-@author: emma
+@author: Emma
 """
 
 from Bio import SeqIO
