@@ -60,7 +60,6 @@ def cluster(seq_data_copy):
                break
             else:
                i += 1
-
     return(cluster_seq)
 
 if __name__ == '__main__':
