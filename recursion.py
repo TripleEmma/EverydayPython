@@ -1,7 +1,7 @@
 ## recursion
 # rule 1. there must be a base case;
-# rule 2. code after the line re-call the function would not been executed unless the base case have been executed;
-# rule3. as long as the base case have been returned for once, variables after the re-call function line would be modified if other (if) conditions have been satisfied.
+# rule 2. code after the line re-call the function would not been executed unless the base case has been executed;
+# rule3. as long as the base case has been returned once, variables after the re-call function line would be modified given that other (if) conditions have been satisfied.
 # The following example is from MIT 6.00x2 online course. To further illustrate the aforementioned concepts, I have included additional print functions throughout the code.
 
 # /usr/bin/python
