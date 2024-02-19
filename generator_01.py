@@ -41,7 +41,7 @@ for i in range(10):
 # 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, Emma
 # 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 
 
-# *send* method (though I don't understand why this is useful except it is fun)
+# 4. *send* method (though I don't understand why this is useful except it is fun)
 def count(firstVal, step):
   counter = firstVal
   while True:
