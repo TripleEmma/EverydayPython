@@ -2,7 +2,7 @@
 #    1.1 When we apply for loop on a list, we call iter() on the list, and make it into an iterator. 
 #    1.2 When an object is iterator, we can apply next() on it.
 
-# 2. A generator automatically have methods \__iter__() and next(). Keyword **yield** turns functions into generators.
+# 2. A generator automatically have methods __iter__() and next(). Keyword **yield** turns functions into generators.
 
 # 3. A generator starts like a normal function until it reaches the line **yield**. 
 # It return the expression after **yield** and keep all other variable before the command line. 
